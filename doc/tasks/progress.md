@@ -7,6 +7,6 @@
 - [ ] crypto
 - [ ] sync
 - [ ] pwa
-- [ ] backend-api
-- [ ] sqlite-store
+- [x] backend-api
+- [x] sqlite-store
 - [ ] observability
